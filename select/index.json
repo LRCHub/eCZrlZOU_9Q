@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "愛の唄 (Arcana version)",
+  "base_artist": "Myuk",
+  "createdAt": "2026-02-11T14:33:56.560979Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛の唄",
+      "artist": "Psycho le Cému",
+      "has_synced": false,
+      "path": "select/01_愛の唄_Psycho_le_Cému.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛の唄",
+      "artist": "小松未歩",
+      "has_synced": false,
+      "path": "select/02_愛の唄_小松未歩.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ai no Uta (愛の唄; Love Song)",
+      "artist": "Psycho le Cému",
+      "has_synced": false,
+      "path": "select/03_Ai_no_Uta_(愛の唄;_Love_Song)_Psycho_le_Cému.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛の唄",
+      "artist": "Myuk",
+      "has_synced": false,
+      "path": "select/pl_01_愛の唄_Myuk.txt"
+    }
+  ]
+}
